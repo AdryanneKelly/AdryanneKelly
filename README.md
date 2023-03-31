@@ -1,11 +1,11 @@
 ### Welcome!! :3
 
 👩‍🎓 Degree in  Analysis and Systems Development 
-🖥 
 
 ### Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdryanneKelly&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 I'm currently focused on these technologies
 
@@ -14,6 +14,9 @@ I'm currently focused on these technologies
 <img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 </div>
+
+But i also know about
+
 
           
 
