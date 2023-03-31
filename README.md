@@ -1,6 +1,7 @@
-### Welcome!! :3
+## Welcome!! :3
 
 <ul>
+  <li> Technical Suport in Orbe Telecom</li>
   <li>📚 Graduated - System Analysis and Development at Faculdade Tecnológica Lourenço Filho - FLF (Dec 2022).</li>
 </ul>
 
@@ -13,9 +14,12 @@
 
 ##
 
-I'm currently focused on these technologies
+### Technologies that i use
 
 <div style="display: inline;">
+<img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 <img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
@@ -23,11 +27,8 @@ I'm currently focused on these technologies
 
 ##
 
-But i also know about
 <div style="display: inline;">
-<img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+
 </div>
 
 
