@@ -17,7 +17,11 @@ I'm currently focused on these technologies
 </div>
 
 But i also know about
-
+<div style="display: inline;">
+<img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+<img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+</div>
 
           
 
