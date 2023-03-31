@@ -1,6 +1,7 @@
 ### Welcome!! :3
 
-👩‍🎓 Degree in  Analysis and Systems Development 
+
+📚 Graduated - System Analysis and Development at Faculdade Tecnológica Lourenço Filho - FLF (Dec 2022).
 
 ### Stats
 
@@ -25,7 +26,7 @@ But i also know about
 <img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 </div>
 
-          
+
 
 <!--
 **AdryanneKelly/AdryanneKelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
