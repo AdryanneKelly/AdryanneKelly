@@ -1,13 +1,14 @@
 ### Welcome!! :3
 
-
-📚 Graduated - System Analysis and Development at Faculdade Tecnológica Lourenço Filho - FLF (Dec 2022).
+<ul>
+  <li>📚 Graduated - System Analysis and Development at Faculdade Tecnológica Lourenço Filho - FLF (Dec 2022).</li>
+</ul>
 
 ### Stats
 
 <div style="display: inline;">
-<img src="https://github-readme-stats.vercel.app/api?username=AdryanneKelly&show_icons=true&theme=tokyonight" />
-<img width='308em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdryanneKelly&langs_count=10&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AdryanneKelly&show_icons=true&theme=tokyonight" />
+  <img width='308em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdryanneKelly&langs_count=10&layout=compact&theme=tokyonight" />
 </div>
 
 ##
