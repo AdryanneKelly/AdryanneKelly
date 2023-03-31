@@ -1,8 +1,10 @@
 ### Welcome!! :3
 
-I'm currently focused on these technologies
+###Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdryanneKelly&show_icons=true&theme=radical)
+
+I'm currently focused on these technologies
 
 <div style="display: inline;">
 <img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
