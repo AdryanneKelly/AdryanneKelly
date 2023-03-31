@@ -8,7 +8,7 @@
 
 ##
 
-### Stats
+### Stats:
 
 <div style="display: inline;">
   <img src="https://github-readme-stats.vercel.app/api?username=AdryanneKelly&show_icons=true&theme=tokyonight" />
@@ -17,7 +17,7 @@
 
 ##
 
-### Technologies that i use
+### Technologies that i use:
 
 <div style="display: inline;">
 <img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -30,9 +30,10 @@
 
 ##
 
-<div style="display: inline;">
+### Profiles:
 
-</div>
+If you want to contact me, my social networks are here
+
 
 
 
