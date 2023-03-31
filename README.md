@@ -5,8 +5,10 @@
 
 ### Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdryanneKelly&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdryanneKelly&langs_count=10&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: inline;">
+<img src="https://github-readme-stats.vercel.app/api?username=AdryanneKelly&show_icons=true&theme=tokyonight" />
+<img width='308em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdryanneKelly&langs_count=10&layout=compact&theme=tokyonight" />
+</div>
 
 
 I'm currently focused on these technologies
