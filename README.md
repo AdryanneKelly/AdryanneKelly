@@ -1,8 +1,11 @@
 ### Welcome!! :3
 
-###Stats
+👩‍🎓 Degree in  Analysis and Systems Development 
+🖥 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdryanneKelly&show_icons=true&theme=radical)
+### Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdryanneKelly&show_icons=true&theme=tokyonight)
 
 I'm currently focused on these technologies
 
