@@ -10,6 +10,7 @@
 <img width='308em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdryanneKelly&langs_count=10&layout=compact&theme=tokyonight" />
 </div>
 
+##
 
 I'm currently focused on these technologies
 
