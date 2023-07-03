@@ -1,6 +1,6 @@
 ## Welcome!! :3
 
-- 🔭 Technical Support in **Orbe Telecom**
+- 🔭 **Systems Analist** in **Orbe Telecom**
 - 📚 Graduated - **System Analysis and Development** at Faculdade Tecnológica Lourenço Filho - FLF (Dec 2022).</li>
 - 🌱 Learning **PHP, Laravel and MySQL**
 
