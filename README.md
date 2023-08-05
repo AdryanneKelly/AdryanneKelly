@@ -3,6 +3,7 @@
 - 🔭 **Systems Analyst** in **Orbe Telecom**
 - 📚 Graduated - **System Analysis and Development** at Faculdade Tecnológica Lourenço Filho - FLF (Dec 2022).</li>
 - 🌱 Learning **PHP, Laravel and MySQL**
+- 📚 Currently a graduate student in **Software Engineering**
 
 
 ##
