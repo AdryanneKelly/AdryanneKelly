@@ -17,7 +17,7 @@
 
 ##
 
-### Technologies and tools:
+### Languages and tools:
 
 | <img width='40' heigth='40' src="https://avatars.githubusercontent.com/u/64450473?s=48&v=4" /> | <img width='40' heigth='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" /> | <img width='40' heigth='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> | <img width='45' heigth='45' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /> |
 | :--------: | :------: | :-------: | :-------------: |
