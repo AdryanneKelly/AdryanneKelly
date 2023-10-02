@@ -46,12 +46,13 @@ If you want to contact me, my social networks are here
 <a href="https://www.linkedin.com/in/adryanne-kelly/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/drysilva____/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
+
+<!--
 ##
 ### #100 Dias de Código 
 <a href="https://100-dias-de-codigo-github-readme.vercel.app/?username=ackalantys">
   <img src="https://100-dias-de-codigo-github-readme.vercel.app/?username=ackalantys" width="450" height="195" alt="Progresso 100 dias de codigo">
 </a>
-<!--
 **AdryanneKelly/AdryanneKelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
