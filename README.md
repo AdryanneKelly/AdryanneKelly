@@ -48,13 +48,13 @@ If you want to contact me, my social networks are here
 
 
 
+<!--
 ##
 ### #100 Dias de Código 
 <a href="https://100-dias-de-codigo-github-readme.vercel.app/?username=ackalantys">
   <img src="https://100-dias-de-codigo-github-readme.vercel.app/?username=ackalantys" width="450" height="195" alt="Progresso 100 dias de codigo">
 </a>
 
-<!--
 **AdryanneKelly/AdryanneKelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
