@@ -19,9 +19,10 @@
 
 ### Languages and tools:
 
-| <img width='40' heigth='40' src="https://avatars.githubusercontent.com/u/64450473?s=48&v=4" /> | <img width='40' heigth='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" /> | <img width='40' heigth='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> | <img width='45' heigth='45' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /> | <img width='40' heigth='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /> | <img width='45' heigth='45' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /> |
+| <img width='40' heigth='40' src="https://avatars.githubusercontent.com/u/64450473?s=48&v=4" /> | <img width='40' heigth='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" /> | <img width='40' heigth='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> | <img width='45' heigth='45' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> | <img width='40' heigth='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /> | <img width='45' heigth='45' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" /> |
 | :--------: | :------: | :-------: | :-------------: | :----: | :---: |
-| <img width='40' heigth='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> | <img width='40' heigth='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> | <img width='40' heigth='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> | <img width='40' heigth='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> | <img width='40' heigth='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" /> | 
+| <img width='40' heigth='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> | <img width='40' heigth='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> | <img width='40' heigth='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> | <img width='40' heigth='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> | <img width='40' heigth='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" /> | <img width='40' heigth='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" /> |
+          
 
 
 
@@ -45,27 +46,4 @@ If you want to contact me, my social networks are here
 
 <a href="https://www.linkedin.com/in/adryanne-kelly/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/drysilva____/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://dev.to/adryannekelly" ><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
-
-
-
-<!--
-##
-### #100 Dias de Código 
-<a href="https://100-dias-de-codigo-github-readme.vercel.app/?username=ackalantys">
-  <img src="https://100-dias-de-codigo-github-readme.vercel.app/?username=ackalantys" width="450" height="195" alt="Progresso 100 dias de codigo">
-</a>
-
-**AdryanneKelly/AdryanneKelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://dev.to/adryannekelly" ><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
