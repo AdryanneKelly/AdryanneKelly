@@ -2,9 +2,8 @@
 
 - 🔭 **Systems Analyst** in **Orbe Telecom**
 - 📚 Graduated - **System Analysis and Development** at Faculdade Tecnológica Lourenço Filho - FLF (Dec 2022).</li>
-- 👩🏻‍💻 I have a good knowledge of **PHP, Laravel and MySQL**
+- 👩🏻‍💻 I have a good knowledge of **PHP, Laravel and MySQL** for web development and **Flutter** for mobile
 - 📚 Currently a graduate student in **Software Engineering** (*Lato sensu*) at Cruzeiro do Sul Virtual
-- 🌱 And I'm introducing my studies in **Flutter**
 
 ##
 
