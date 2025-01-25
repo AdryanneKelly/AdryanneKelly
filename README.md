@@ -1,6 +1,6 @@
 ## Welcome!! :3
 
-- 🔭 **Software Engineer** in **Praqt**
+- 🔭 **Flutter Developer Jr** in **Petize**
 - 📚 Graduated - **System Analysis and Development** at Faculdade Tecnológica Lourenço Filho - FLF (Dec 2022).</li>
 - 👩🏻‍💻 I have a good knowledge of **PHP, Laravel and MySQL** for web development and **Flutter** for mobile
 - 📚 Postgraduate in **Software Engineering** (*Lato sensu*) at Cruzeiro do Sul Virtual - (Aug 2024)
